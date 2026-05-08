@@ -1,0 +1,113 @@
+{"text": "Cybersecurity breach exposes data of 10 million users.", "label": "technology"}
+{"text": "Hospital introduces robot-assisted surgery program.", "label": "health"}
+{"text": "Happy birthday! Hope you have a wonderful day!", "label": "ham"}
+{"text": "Your computer has been infected! Download our antivirus now!", "label": "spam"}
+{"text": "Sarah liked your post about the hiking trip.", "label": "social"}
+{"text": "What a beautiful day! Everything went smoothly.", "label": "positive"}
+{"text": "The delivery was late and the item was damaged.", "label": "negative"}
+{"text": "The meeting is scheduled for 3 PM tomorrow.", "label": "neutral"}
+{"text": "I asked for a refund but they refused. Unacceptable.", "label": "negative"}
+{"text": "Supply chain disruptions ease as shipping costs decline.", "label": "business"}
+{"text": "David shared a memory from 3 years ago.", "label": "social"}
+{"text": "Major tech companies announce layoffs amid restructuring.", "label": "technology"}
+{"text": "Local council approves budget for public transportation.", "label": "politics"}
+{"text": "The worst airline experience of my life.", "label": "negative"}
+{"text": "Music festival lineup revealed, headliners include top artists.", "label": "entertainment"}
+{"text": "Cryptocurrency exchange faces regulatory scrutiny.", "label": "business"}
+{"text": "Broadway show extends run due to overwhelming demand.", "label": "entertainment"}
+{"text": "The concert was incredible, best performance I've ever seen.", "label": "positive"}
+{"text": "Scientists develop rapid test for antibiotic resistance.", "label": "health"}
+{"text": "Breakthrough treatment approved for rare genetic disease.", "label": "health"}
+{"text": "Your order #12345 has been shipped. Track it here.", "label": "update"}
+{"text": "Small businesses report record holiday season sales.", "label": "business"}
+{"text": "20% off your next order! Use code SAVE20 at checkout.", "label": "promotion"}
+{"text": "Dear friend, I am a prince and need your help transferring funds.", "label": "spam"}
+{"text": "Messi scores hat-trick in Champions League semifinal.", "label": "sports"}
+{"text": "I'm extremely disappointed with the quality.", "label": "negative"}
+{"text": "The color is slightly different from what I expected.", "label": "neutral"}
+{"text": "New message from your group 'Book Club'.", "label": "social"}
+{"text": "NFL draft picks announced, quarterback goes first overall.", "label": "sports"}
+{"text": "I love this product, it works perfectly and arrived on time.", "label": "positive"}
+{"text": "Hey, are we still meeting for lunch tomorrow?", "label": "ham"}
+{"text": "Hot singles in your area want to meet you tonight!", "label": "spam"}
+{"text": "Major merger creates world's largest retail company.", "label": "business"}
+{"text": "The instructions were clear and easy to follow.", "label": "neutral"}
+{"text": "Telemedicine usage surges, becoming standard practice.", "label": "health"}
+{"text": "Video game sequel sells 10 million copies in first week.", "label": "entertainment"}
+{"text": "Perfect gift for my wife, she was overjoyed.", "label": "positive"}
+{"text": "Payment of $49.99 was processed for your subscription.", "label": "update"}
+{"text": "Stock market reaches all-time high amid tech rally.", "label": "business"}
+{"text": "New world record set in 100m sprint at Diamond League.", "label": "sports"}
+{"text": "Can you pick up some milk on your way home?", "label": "ham"}
+{"text": "Apple unveils new AI-powered features in latest iPhone.", "label": "technology"}
+{"text": "Reminder: Your subscription renews in 3 days.", "label": "update"}
+{"text": "Excellent quality for the price, very satisfied.", "label": "positive"}
+{"text": "We miss you! Here's 15% off to welcome you back.", "label": "promotion"}
+{"text": "Flash sale: Buy one get one free on all items this weekend.", "label": "promotion"}
+{"text": "Oil prices surge following OPEC production cut.", "label": "business"}
+{"text": "I regret buying this, it doesn't work as advertised.", "label": "negative"}
+{"text": "Your event 'Team Dinner' has 12 people attending.", "label": "social"}
+{"text": "Standard delivery took about 5 business days.", "label": "neutral"}
+{"text": "Opposition party calls for investigation into spending.", "label": "politics"}
+{"text": "The package arrived on Tuesday as expected.", "label": "neutral"}
+{"text": "Swimming federation bans controversial swimsuit technology.", "label": "sports"}
+{"text": "Streaming platform releases most-watched series of the year.", "label": "entertainment"}
+{"text": "5G network expansion reaches rural communities.", "label": "technology"}
+{"text": "The team did an amazing job on this project.", "label": "positive"}
+{"text": "The hotel exceeded our expectations in every way.", "label": "positive"}
+{"text": "This movie was absolutely fantastic! Best I've seen all year.", "label": "positive"}
+{"text": "Research finds connection between gut bacteria and mood.", "label": "health"}
+{"text": "Mental health awareness campaign reaches millions online.", "label": "health"}
+{"text": "I'm so happy with my purchase, exceeded all expectations.", "label": "positive"}
+{"text": "You have been selected for a free iPhone! Act now!", "label": "spam"}
+{"text": "You have 3 new friend requests.", "label": "social"}
+{"text": "Don't miss out! Sale ends midnight tonight.", "label": "promotion"}
+{"text": "The food was delicious and the atmosphere was wonderful.", "label": "positive"}
+{"text": "The food was cold and tasteless, never going back.", "label": "negative"}
+{"text": "New arrivals just dropped! Shop the latest collection now.", "label": "promotion"}
+{"text": "Supreme Court to hear landmark privacy case next month.", "label": "politics"}
+{"text": "Terrible customer service, waited 2 hours and got no help.", "label": "negative"}
+{"text": "Overpriced and underwhelming, not worth it.", "label": "negative"}
+{"text": "I'm thrilled with the results, couldn't be happier.", "label": "positive"}
+{"text": "Election results show tight race in swing states.", "label": "politics"}
+{"text": "I received the item, it looks like the picture.", "label": "neutral"}
+{"text": "Your password was successfully changed.", "label": "update"}
+{"text": "Startup raises $500M for quantum computing research.", "label": "technology"}
+{"text": "Your package was delivered to your front door.", "label": "update"}
+{"text": "The service at this restaurant was exceptional, highly recommend!", "label": "positive"}
+{"text": "Governor declares state of emergency after flooding.", "label": "politics"}
+{"text": "Make $5000/day working from home! Limited spots available!", "label": "spam"}
+{"text": "The store opens at 9 AM and closes at 6 PM.", "label": "neutral"}
+{"text": "Let me know when you're free to discuss the project.", "label": "ham"}
+{"text": "Bestselling author announces new book in popular series.", "label": "entertainment"}
+{"text": "Software update available: version 3.2.1.", "label": "update"}
+{"text": "The noise level was unbearable, couldn't sleep at all.", "label": "negative"}
+{"text": "You were tagged in 5 new photos.", "label": "social"}
+{"text": "URGENT: Your account will be suspended unless you verify immediately.", "label": "spam"}
+{"text": "Late night host announces retirement after 15 years.", "label": "entertainment"}
+{"text": "It's okay for the price point, gets the job done.", "label": "neutral"}
+{"text": "Your flight AA123 has been delayed by 2 hours.", "label": "update"}
+{"text": "Grammy nominations announced, newcomer leads with 8 nods.", "label": "entertainment"}
+{"text": "The update changed the interface but functionality is the same.", "label": "neutral"}
+{"text": "Don't waste your time with this app, it crashes constantly.", "label": "negative"}
+{"text": "Breakthrough in battery technology doubles EV range.", "label": "technology"}
+{"text": "Central bank raises interest rates for third time this year.", "label": "business"}
+{"text": "WHO declares end of global health emergency.", "label": "health"}
+{"text": "Rude staff, dirty rooms, awful experience.", "label": "negative"}
+{"text": "Lisa invited you to the event 'Summer BBQ'.", "label": "social"}
+{"text": "Olympic committee announces new sports for 2028 Games.", "label": "sports"}
+{"text": "New season, new styles. Explore what's trending.", "label": "promotion"}
+{"text": "New programming language gains popularity among developers.", "label": "technology"}
+{"text": "Local high school team wins state championship.", "label": "sports"}
+{"text": "New immigration reform bill introduced in Congress.", "label": "politics"}
+{"text": "The kids' school play is next Thursday at 7 PM.", "label": "ham"}
+{"text": "It's an average product, nothing special.", "label": "neutral"}
+{"text": "Received confirmation email after placing the order.", "label": "neutral"}
+{"text": "Senate passes infrastructure bill with bipartisan support.", "label": "politics"}
+{"text": "Dinner at 7? I was thinking Italian or Thai.", "label": "ham"}
+{"text": "I attached the photos from last weekend's trip.", "label": "ham"}
+{"text": "I've used it for a week now, it does what it says.", "label": "neutral"}
+{"text": "Your favorite brand just released their spring collection.", "label": "promotion"}
+{"text": "Buy cheap medications online! No prescription needed!", "label": "spam"}
+{"text": "Tennis star announces retirement after 20-year career.", "label": "sports"}
+{"text": "Horrible experience from start to finish.", "label": "negative"}

@@ -1,0 +1,500 @@
+{"text": "how do i relocate my 401k", "label": "rollover_401k"}
+{"text": "what ingredients do i need to make salmon salad", "label": "ingredients_list"}
+{"text": "can you let me know what company were you designed by", "label": "who_made_you"}
+{"text": "whats in my gas tank", "label": "gas"}
+{"text": "please help me find my cellphone", "label": "find_phone"}
+{"text": "please put a block on my citi account immediately", "label": "freeze_account"}
+{"text": "tell me what's on my calendar for march 22nd", "label": "calendar"}
+{"text": "what do i have going on on my calendar for march 18th", "label": "calendar"}
+{"text": "what are the size limits regarding-carry on bags", "label": "carry_on"}
+{"text": "can a 401k be rolled over", "label": "rollover_401k"}
+{"text": "can you give me a hand paying my water bill", "label": "pay_bill"}
+{"text": "i need you to block my mutualone account now", "label": "freeze_account"}
+{"text": "can you send a text to someone", "label": "text"}
+{"text": "tell the meaning of life", "label": "meaning_of_life"}
+{"text": "so how busy is the outback steakhouse at 5 pm", "label": "how_busy"}
+{"text": "when did i last service my car with an oil change", "label": "last_maintenance"}
+{"text": "is my vacation approved yet", "label": "pto_request_status"}
+{"text": "are there any travel alerts i should know about for buenos aires, argentina", "label": "travel_alert"}
+{"text": "what are some touristy things to do in boston", "label": "travel_suggestion"}
+{"text": "what do i need to do to request vacation time off", "label": "pto_request"}
+{"text": "how much do i have available on my visa card", "label": "credit_limit"}
+{"text": "what is the proper way to spell diamond", "label": "spelling"}
+{"text": "it is true", "label": "yes"}
+{"text": "create a reminder to wash the dishes", "label": "reminder_update"}
+{"text": "what is my interest rate payment", "label": "interest_rate"}
+{"text": "where were you made", "label": "where_are_you_from"}
+{"text": "i need to know what traffic is going to be like at 3:00 pm on the new jersey turnpike heading into camden from north jersey", "label": "traffic"}
+{"text": "schedule an oil change for me", "label": "schedule_maintenance"}
+{"text": "can you explain why i couldn't use my card at target", "label": "card_declined"}
+{"text": "why don't i have access to my bank account", "label": "account_blocked"}
+{"text": "i need to locate my phone", "label": "find_phone"}
+{"text": "do i need an international visa to enter canada", "label": "international_visa"}
+{"text": "where did you live previously", "label": "where_are_you_from"}
+{"text": "call me mike from now on", "label": "change_user_name"}
+{"text": "pause my account", "label": "freeze_account"}
+{"text": "how do i make lasagna", "label": "recipe"}
+{"text": "tell me later to call bill", "label": "reminder_update"}
+{"text": "has anyone looked at my mastercard application", "label": "application_status"}
+{"text": "at around noon what is the traffic typically like on the route to the hopsital", "label": "traffic"}
+{"text": "i need you to stop talking now", "label": "cancel"}
+{"text": "how do i submit an application for a discover card", "label": "new_card"}
+{"text": "i need to find my credit score", "label": "credit_score"}
+{"text": "i would like to book a place to stay in phoenix from the 5th to the 9th of march", "label": "book_hotel"}
+{"text": "what is the exchange rate between euros and pesos", "label": "exchange_rate"}
+{"text": "how busy is michel at 9", "label": "how_busy"}
+{"text": "i would like you to revert to your factory settings", "label": "reset_settings"}
+{"text": "what are the nutrition facts for a medium popcorn at the movies", "label": "nutrition_info"}
+{"text": "what are my finances like lately", "label": "spending_history"}
+{"text": "use a male voice now", "label": "change_accent"}
+{"text": "if i win 200000 how do i split it 7 ways", "label": "calculator"}
+{"text": "tell me something funny about animals", "label": "tell_joke"}
+{"text": "what month does my credit card expire", "label": "expiration_date"}
+{"text": "who brought you up", "label": "who_made_you"}
+{"text": "my response to that is yes", "label": "yes"}
+{"text": "please stop the current process", "label": "cancel"}
+{"text": "how can i fix my card being declined", "label": "card_declined"}
+{"text": "pull up my electric bill, i want to pay it", "label": "pay_bill"}
+{"text": "i need to cancel my reservation for rob at red robin", "label": "cancel_reservation"}
+{"text": "book me an uber for a party of 5 to the salvage yard off maple", "label": "uber"}
+{"text": "what fuel should i use for this car", "label": "gas_type"}
+{"text": "when you were a child, where did you live", "label": "where_are_you_from"}
+{"text": "find the minimum due on my peco energy bill for february", "label": "min_payment"}
+{"text": "i must call dr smith", "label": "make_call"}
+{"text": "i need a recent transaction looked into", "label": "transactions"}
+{"text": "can you roll a 6 sided dice", "label": "roll_dice"}
+{"text": "can you tell me how to change my oil please", "label": "oil_change_how"}
+{"text": "may i schedule a car maintenance", "label": "schedule_maintenance"}
+{"text": "can you text walt and tell him to meet me at the car wash", "label": "text"}
+{"text": "would you like to live with a cat or a dog", "label": "do_you_have_pets"}
+{"text": "show me the transaction on the food", "label": "transactions"}
+{"text": "how do i get to the beach by bus", "label": "directions"}
+{"text": "can i fly with my razors or are there restrictions", "label": "carry_on"}
+{"text": "i would like to know the amount of gas i have", "label": "gas"}
+{"text": "please check and report on my tire pressure", "label": "tire_pressure"}
+{"text": "perform a coin flip", "label": "flip_coin"}
+{"text": "get me an uber for 4 heading to miam", "label": "uber"}
+{"text": "set a 5 minute timer", "label": "timer"}
+{"text": "what's on my todo list for today", "label": "todo_list"}
+{"text": "how much credit do i have on my discover card", "label": "credit_limit"}
+{"text": "what's the last date i can use my credit card", "label": "expiration_date"}
+{"text": "stop what you're doing", "label": "cancel"}
+{"text": "can you let me know the next open slot for me to get my oil changed", "label": "schedule_maintenance"}
+{"text": "how about you tell me a joke", "label": "tell_joke"}
+{"text": "what's the average cooking time for cooking wings", "label": "cook_time"}
+{"text": "when's the next day off coming up", "label": "next_holiday"}
+{"text": "what do you do for hobbies", "label": "what_are_your_hobbies"}
+{"text": "i want to make a meat stew what ingredients do i need", "label": "ingredients_list"}
+{"text": "what day will i earn my payment from work", "label": "payday"}
+{"text": "what things do you do for fun", "label": "what_are_your_hobbies"}
+{"text": "i could use some help transfering my 401k", "label": "rollover_401k"}
+{"text": "i need a bed in brownsburg near walmart from apil 4th until the 5th", "label": "book_hotel"}
+{"text": "i'd like to get an appointment to get my oil changed", "label": "schedule_maintenance"}
+{"text": "have i earned points with my venture card, and how many", "label": "rewards_balance"}
+{"text": "i need to know all about the nutrition of the beef taco", "label": "nutrition_info"}
+{"text": "do i need to get vaccines before my trip", "label": "vaccines"}
+{"text": "say my name", "label": "user_name"}
+{"text": "tell me the apr of my credit card", "label": "apr"}
+{"text": "set a reminder for later", "label": "reminder_update"}
+{"text": "i have to meet with sam at 9:00am in two days", "label": "schedule_meeting"}
+{"text": "can you help me do math", "label": "calculator"}
+{"text": "where can i go to have my tires checked out", "label": "schedule_maintenance"}
+{"text": "what do you think about changing your name to heath", "label": "change_ai_name"}
+{"text": "make the lights darker", "label": "smart_home"}
+{"text": "i missed that last one, please repeat", "label": "repeat"}
+{"text": "do you have any good recommendations for swiss cuisine", "label": "meal_suggestion"}
+{"text": "i want to shop using credit card points", "label": "redeem_rewards"}
+{"text": "add eggs to my shopping list and remove cheese", "label": "shopping_list_update"}
+{"text": "did the application for my visa card finish", "label": "application_status"}
+{"text": "i wanna know your name", "label": "what_is_your_name"}
+{"text": "what is the time is central time zone", "label": "time"}
+{"text": "i want to know the time to get to td bank in toms river", "label": "distance"}
+{"text": "please tell me how to pay my gas bill", "label": "pay_bill"}
+{"text": "i advise you to quit talking", "label": "cancel"}
+{"text": "i need to understand how many points have i earned with my credit card", "label": "rewards_balance"}
+{"text": "next song play", "label": "next_song"}
+{"text": "no that isn't right", "label": "no"}
+{"text": "you can call me steve", "label": "change_user_name"}
+{"text": "is there a charge to use my card in croatia", "label": "international_fees"}
+{"text": "could i rent a car in seattle from next monday to thursday please", "label": "car_rental"}
+{"text": "what's the ultimate day for me to pay the internet bill", "label": "bill_due"}
+{"text": "tell me something funny about the middle ages", "label": "tell_joke"}
+{"text": "how would i raise my credit spending by 2500 dollars", "label": "credit_limit_change"}
+{"text": "when will i know if my visa card application was approved", "label": "application_status"}
+{"text": "websites that share credit ratings", "label": "credit_score"}
+{"text": "what ingredients does agor agor need", "label": "ingredients_list"}
+{"text": "whats the name of the playing song", "label": "what_song"}
+{"text": "i'm looking for a roundtrip flight from afw to dgb for tomorrow until next week", "label": "book_flight"}
+{"text": "would you tell me the hobbies the ai has", "label": "what_are_your_hobbies"}
+{"text": "swap my amex pin to 1234", "label": "pin_change"}
+{"text": "set a reminder for me to do this in a bit", "label": "reminder_update"}
+{"text": "revert to your factory settings, please", "label": "reset_settings"}
+{"text": "can i make a car maintenance appointment", "label": "schedule_maintenance"}
+{"text": "let me know when my next day off is", "label": "next_holiday"}
+{"text": "can you tell me the amount of gas i have remaining", "label": "gas"}
+{"text": "what is 8 factorial", "label": "calculator"}
+{"text": "how often do you change your tires", "label": "tire_change"}
+{"text": "will you tell me my spending limit", "label": "credit_limit"}
+{"text": "what events do i have going on on march 11th", "label": "calendar"}
+{"text": "i need a aaa service place to make an appointment for my tires to be assessed", "label": "schedule_maintenance"}
+{"text": "come again with that", "label": "repeat"}
+{"text": "what's the calorie content of chicken nuggets", "label": "calories"}
+{"text": "when will i arrive at hy-vee", "label": "distance"}
+{"text": "my card has purchases i don't recognize", "label": "report_fraud"}
+{"text": "please look to see if paying bills is on my reminders list currently", "label": "reminder"}
+{"text": "can you roll the 12 sided dice please", "label": "roll_dice"}
+{"text": "i want to use my card reward points", "label": "redeem_rewards"}
+{"text": "what name do you have listed for me", "label": "user_name"}
+{"text": "i'd like to confirm that i have a reservation at red robin for josh", "label": "confirm_reservation"}
+{"text": "at walmart my card got declined when i was buyng qtips", "label": "card_declined"}
+{"text": "do i need to pay my credit card bill already", "label": "bill_due"}
+{"text": "i would like to hear what ideas you have about making dinner tonight", "label": "meal_suggestion"}
+{"text": "how do i get downtown by foot", "label": "directions"}
+{"text": "are there any travel alerts for north korea", "label": "travel_alert"}
+{"text": "how do i find my location right now", "label": "current_location"}
+{"text": "has the order that i placed arrived", "label": "order_status"}
+{"text": "hey what's up", "label": "greeting"}
+{"text": "read what i added to the reminder list", "label": "reminder"}
+{"text": "what your numerical digit to display as your age", "label": "how_old_are_you"}
+{"text": "what area did you come from", "label": "where_are_you_from"}
+{"text": "i dont want to listen to this song", "label": "next_song"}
+{"text": "can you please help me move $100 from my checking to saving account", "label": "transfer"}
+{"text": "change to female voice", "label": "change_accent"}
+{"text": "who else do you work for", "label": "who_do_you_work_for"}
+{"text": "thanks so much", "label": "thank_you"}
+{"text": "i gotta say no", "label": "no"}
+{"text": "switch my insurance plan to a new one", "label": "insurance_change"}
+{"text": "what's the timezone now in hiram", "label": "timezone"}
+{"text": "what is the current time in cst", "label": "time"}
+{"text": "what are my insurance rewards", "label": "insurance"}
+{"text": "this costco charge looks fraudulent", "label": "report_fraud"}
+{"text": "can you order me more checks at wells fargo", "label": "order_checks"}
+{"text": "i need help paying my hoa bill", "label": "pay_bill"}
+{"text": "we need an uber pool for 2 passengers going to the greenboro airport", "label": "uber"}
+{"text": "exactly right", "label": "yes"}
+{"text": "how much of my pto is left", "label": "pto_used"}
+{"text": "please disconnect from my phone", "label": "sync_device"}
+{"text": "turn the oven to 350", "label": "smart_home"}
+{"text": "great", "label": "yes"}
+{"text": "can you confirm i have a reservation at 5 pm on march 13th", "label": "confirm_reservation"}
+{"text": "grab me a new belt on amazon please", "label": "order"}
+{"text": "i need to know what's good for chinese around here", "label": "meal_suggestion"}
+{"text": "what company is responsible for this design", "label": "who_made_you"}
+{"text": "i want you to call me pam", "label": "change_user_name"}
+{"text": "how to activate direct deposit to chase account", "label": "direct_deposit"}
+{"text": "can i make a transfer between my accounts", "label": "transfer"}
+{"text": "can i get a higher limit on my american express card", "label": "credit_limit_change"}
+{"text": "please help me book a rental car for nashville", "label": "car_rental"}
+{"text": "where can i find when my car payment bill is due", "label": "bill_due"}
+{"text": "please give me a rundown of my reminder list", "label": "reminder"}
+{"text": "what do i owe the government on my taxes", "label": "taxes"}
+{"text": "what will the weather be this weekend", "label": "weather"}
+{"text": "how do i inform my bank i'm going to paris", "label": "travel_notification"}
+{"text": "would you let me know who your boss is", "label": "who_do_you_work_for"}
+{"text": "if i want to redeem miles from my delta skymiles card, how do i do that", "label": "redeem_rewards"}
+{"text": "can you trll me where to get my w2", "label": "w2"}
+{"text": "speak to me in dutch", "label": "change_language"}
+{"text": "inform my bank that i'll be going to europe", "label": "travel_notification"}
+{"text": "please order some more pepsi", "label": "order"}
+{"text": "what kind of electrical outlets do they use in z", "label": "plug_type"}
+{"text": "how do i keep good credit", "label": "improve_credit_score"}
+{"text": "add milk to my shopping list", "label": "shopping_list_update"}
+{"text": "how much money did i spend at starbucks in the last week", "label": "spending_history"}
+{"text": "ai, how are you feeling", "label": "greeting"}
+{"text": "are vaccinations required to travel there", "label": "vaccines"}
+{"text": "what do i have to do to use my credit points acquired through purchases", "label": "redeem_rewards"}
+{"text": "play the next one", "label": "next_song"}
+{"text": "thanks a lot for the answer", "label": "thank_you"}
+{"text": "please tell wanda where i am now", "label": "share_location"}
+{"text": "let me know some things i can do in dallas", "label": "travel_suggestion"}
+{"text": "i want us to speak to each other in spanish from now on", "label": "change_language"}
+{"text": "what's the nutrition info for a pound of chicken", "label": "nutrition_info"}
+{"text": "what name do you use to talk about me", "label": "user_name"}
+{"text": "how much am i making at my job", "label": "income"}
+{"text": "can you change my 1st national account pin to 4892", "label": "pin_change"}
+{"text": "i need to know how low are my tires on air", "label": "tire_pressure"}
+{"text": "change my amex account pin to 1234", "label": "pin_change"}
+{"text": "set the temperaure to 71", "label": "smart_home"}
+{"text": "share the nutrition info for french fries with me", "label": "nutrition_info"}
+{"text": "play next song", "label": "next_song"}
+{"text": "give me your name so i can use you", "label": "what_is_your_name"}
+{"text": "what would be good for dinner", "label": "meal_suggestion"}
+{"text": "i want to switch out of whisper mode", "label": "whisper_mode"}
+{"text": "i want a new pin for my savings account", "label": "pin_change"}
+{"text": "what do i do if i lost my card", "label": "report_lost_card"}
+{"text": "gracias", "label": "thank_you"}
+{"text": "can you schedule me a mechanic", "label": "schedule_maintenance"}
+{"text": "please suggest a meal from italy to me", "label": "meal_suggestion"}
+{"text": "pay my insurance bill", "label": "pay_bill"}
+{"text": "can you confirm my reservation for chillis at 8:00", "label": "confirm_reservation"}
+{"text": "what my fuel tank at", "label": "gas"}
+{"text": "show me how to make tuna casserole please", "label": "recipe"}
+{"text": "please move $100 from my checking to saving account", "label": "transfer"}
+{"text": "place a call to bill now", "label": "make_call"}
+{"text": "how do i get to the park on foot", "label": "directions"}
+{"text": "how many of my vacation days do i have remaining", "label": "pto_balance"}
+{"text": "how long before i need an oil change", "label": "oil_change_when"}
+{"text": "how can i figure out my interest rate for my umpqua account", "label": "interest_rate"}
+{"text": "does mexico require an international visa", "label": "international_visa"}
+{"text": "how long before i need to replace my tires after i replaced them on 2/24/18", "label": "tire_change"}
+{"text": "i need to share my location with noel", "label": "share_location"}
+{"text": "i think not", "label": "no"}
+{"text": "how many years have you been on", "label": "how_old_are_you"}
+{"text": "please pay my sprint bill using my bank of america checking account", "label": "pay_bill"}
+{"text": "could you submit a pto request for me from dates mar 3 to 9, please", "label": "pto_request"}
+{"text": "please don't speak so fast", "label": "change_speed"}
+{"text": "could you put a stop on my bank account", "label": "freeze_account"}
+{"text": "i have to cancel my reservation after all, please", "label": "cancel_reservation"}
+{"text": "will i get getting my new card anytime soon", "label": "replacement_card_duration"}
+{"text": "let me know the process for new insurance", "label": "insurance_change"}
+{"text": "can you see if i can rent a car from dallas on the dates of march 1, 2019 to march 3, 2019", "label": "car_rental"}
+{"text": "las vegas weather today", "label": "weather"}
+{"text": "what's the pin number for my checking account", "label": "pin_change"}
+{"text": "i need an alarm set for 9 am and another for 11 am", "label": "alarm"}
+{"text": "i would like all of these things on my shopping list ordered", "label": "order"}
+{"text": "does minnis take reservations", "label": "accept_reservations"}
+{"text": "help me get up at eight thirty in the morning tomorrow", "label": "alarm"}
+{"text": "i wish to pay my cable bill", "label": "pay_bill"}
+{"text": "say something funny", "label": "tell_joke"}
+{"text": "turn on whisper mode", "label": "whisper_mode"}
+{"text": "how many minutes are involved in the preparation of curry", "label": "cook_time"}
+{"text": "can you talk faster", "label": "change_speed"}
+{"text": "transfer two hundred dollars between my portfolio and my money market account", "label": "transfer"}
+{"text": "what's the exchange rate between dollars and pesos", "label": "exchange_rate"}
+{"text": "might be true, might be false", "label": "maybe"}
+{"text": "i want you to call me lord", "label": "change_user_name"}
+{"text": "i need an uber that fits ten people to go to chipotle", "label": "uber"}
+{"text": "what age were you on your last birthday, ai", "label": "how_old_are_you"}
+{"text": "when will my next paycheck come", "label": "payday"}
+{"text": "do people like the food at wendy's", "label": "restaurant_reviews"}
+{"text": "could you share a joke", "label": "tell_joke"}
+{"text": "i'm needing to know who made you", "label": "who_made_you"}
+{"text": "remember to remind me of this later", "label": "reminder_update"}
+{"text": "what's the non-city mpg for this car", "label": "mpg"}
+{"text": "what is the sum of 3 plus 5", "label": "calculator"}
+{"text": "how can you help me", "label": "what_can_i_ask_you"}
+{"text": "what should you be called", "label": "what_is_your_name"}
+{"text": "is it possible to take an uber to burger king", "label": "uber"}
+{"text": "help me get my gas bill paid", "label": "pay_bill"}
+{"text": "are there any travel advisories for the us", "label": "travel_alert"}
+{"text": "cancel doctors appointment from my calendar", "label": "calendar_update"}
+{"text": "you must skip this song and play the next one", "label": "next_song"}
+{"text": "how would i say i love you if i were french", "label": "translate"}
+{"text": "did i get my car inspected recently", "label": "last_maintenance"}
+{"text": "do you know when you were born", "label": "how_old_are_you"}
+{"text": "now that i have a new job, i need getting my 401k rolled over", "label": "rollover_401k"}
+{"text": "why was my card not accepted", "label": "card_declined"}
+{"text": "walk me through changing the oil on a tesla", "label": "oil_change_how"}
+{"text": "please add laundry to the chores", "label": "todo_list_update"}
+{"text": "i don't want you synced to my phone anymore", "label": "sync_device"}
+{"text": "share my gps coordinates with jim", "label": "share_location"}
+{"text": "what temperature is the ac set at", "label": "smart_home"}
+{"text": "can you get my car started", "label": "smart_home"}
+{"text": "can you roll a die for me", "label": "roll_dice"}
+{"text": "are there fees for using my card in tampa", "label": "international_fees"}
+{"text": "what's the funniest thing you know about artificial intelligence", "label": "tell_joke"}
+{"text": "are you able to tack my package", "label": "order_status"}
+{"text": "who designed you", "label": "who_made_you"}
+{"text": "can you text elizabeth and tell them i forgot to bring drinks", "label": "text"}
+{"text": "roughly how long can i leave bananas in the freezer before i have to throw them out", "label": "food_last"}
+{"text": "what kind of fuel goes in my engine", "label": "gas_type"}
+{"text": "is my 10am village inn reservation valid", "label": "confirm_reservation"}
+{"text": "turn volume to the number 4 setting", "label": "change_volume"}
+{"text": "deposit ten bucks from my chase account to my ally account", "label": "transfer"}
+{"text": "how long does it take to prepare a lasagna", "label": "cook_time"}
+{"text": "can you assist me rolling over a 401k for a new job", "label": "rollover_401k"}
+{"text": "how long should i cook my turkey", "label": "cook_time"}
+{"text": "tell me how to rollover my 401k", "label": "rollover_401k"}
+{"text": "in which area were you made", "label": "where_are_you_from"}
+{"text": "are shots required before traveling to china", "label": "vaccines"}
+{"text": "have i earned a lot of points on my capital one card", "label": "rewards_balance"}
+{"text": "do you know how to spell curiosity", "label": "spelling"}
+{"text": "i need to report that someone ran off with my td bank card earlier", "label": "report_lost_card"}
+{"text": "what are some fun cheap activities to do in colorado", "label": "travel_suggestion"}
+{"text": "what does anachronistic mean", "label": "definition"}
+{"text": "tell me all updates about my order's status", "label": "order_status"}
+{"text": "when's the next time i should change my oil", "label": "oil_change_when"}
+{"text": "on the speaker what song is playing", "label": "what_song"}
+{"text": "add this song to my slow jams playlist", "label": "update_playlist"}
+{"text": "safety concerns for malaysia", "label": "travel_alert"}
+{"text": "find the nutrition info for whole milk for me", "label": "nutrition_info"}
+{"text": "i need to switch the language for your responses", "label": "change_language"}
+{"text": "how much longer before the card is mailed to me", "label": "replacement_card_duration"}
+{"text": "would you mind telling me the time", "label": "time"}
+{"text": "i need information about my recent transaction", "label": "transactions"}
+{"text": "how can i show noel where i am right now", "label": "share_location"}
+{"text": "what's a good restaurant nearby", "label": "restaurant_suggestion"}
+{"text": "how much is $30 usd in canadian dollar", "label": "exchange_rate"}
+{"text": "where should i go for dinner", "label": "restaurant_suggestion"}
+{"text": "what's the cooking time for the cake", "label": "cook_time"}
+{"text": "your answer is appreciated", "label": "thank_you"}
+{"text": "i would like to know if there are any fees for using my capital one card in london, england", "label": "international_fees"}
+{"text": "i cannot remember what my pin is for my bank of america checking account", "label": "pin_change"}
+{"text": "can you tell my bank that i'll be travelling internationally soon", "label": "travel_notification"}
+{"text": "i can't hear you, stop whispering!", "label": "whisper_mode"}
+{"text": "can you give me a spelling for antipathy", "label": "spelling"}
+{"text": "how can i tell my bank i'm going to vietnam", "label": "travel_notification"}
+{"text": "what is the current exchange rate between mxn and eur", "label": "exchange_rate"}
+{"text": "let the rents have my current location", "label": "share_location"}
+{"text": "i desire to apply for a bank of america travel rewards credit card", "label": "new_card"}
+{"text": "i want you to disconnect from my phone", "label": "sync_device"}
+{"text": "let me know how the outback steakhouse reviews are", "label": "restaurant_reviews"}
+{"text": "how busy does outback get around 7pm", "label": "how_busy"}
+{"text": "what amount of money is in my bank accounts", "label": "balance"}
+{"text": "i need you to reserve a table for 4 at red robin under the name kevin at 7", "label": "restaurant_reservation"}
+{"text": "can you please lower the volume please", "label": "whisper_mode"}
+{"text": "i need my checking account's interest rate", "label": "interest_rate"}
+{"text": "change to a male voice", "label": "change_accent"}
+{"text": "tell me spaghetti bolognese's nutrition facts", "label": "nutrition_info"}
+{"text": "i'd like a block on my charles schwab account immediately", "label": "freeze_account"}
+{"text": "do you know if vacation got approved", "label": "pto_request_status"}
+{"text": "let me know what my interest rate is", "label": "interest_rate"}
+{"text": "what amount will my state taxes be", "label": "taxes"}
+{"text": "is there an uber that drives to the bank on 5th that can hold 3 people", "label": "uber"}
+{"text": "what kind of animals do you own", "label": "do_you_have_pets"}
+{"text": "what sites are there to see when in evans", "label": "travel_suggestion"}
+{"text": "where is my package en route", "label": "order_status"}
+{"text": "what if you need to obtain a new credit card", "label": "new_card"}
+{"text": "will i need immunization for a trip to turkey", "label": "vaccines"}
+{"text": "please erase everything on my to do list", "label": "todo_list_update"}
+{"text": "when is my car due for an oil change", "label": "oil_change_when"}
+{"text": "can you tell me what time it is in dallas", "label": "time"}
+{"text": "please stop calling me dave, my name's bob", "label": "change_user_name"}
+{"text": "where do i go to get my w-2", "label": "w2"}
+{"text": "what's the interest rate on my savings", "label": "interest_rate"}
+{"text": "i can't find my insurance card and i want to report it as lost", "label": "report_lost_card"}
+{"text": "will i be charged if i use my card in canada", "label": "international_fees"}
+{"text": "how can i order some more checks for my checking account", "label": "order_checks"}
+{"text": "i'd like to know how acommodate is spelled", "label": "spelling"}
+{"text": "plug used in china", "label": "plug_type"}
+{"text": "hello there", "label": "greeting"}
+{"text": "check for why is my bank account frozen", "label": "account_blocked"}
+{"text": "how many meetings do i have scheduled between 10 and 3", "label": "meeting_schedule"}
+{"text": "show me the nearest gas station", "label": "directions"}
+{"text": "return to your original settings", "label": "reset_settings"}
+{"text": "give me info on my health plan", "label": "insurance"}
+{"text": "if i leave now, how long will it take me to drive to cape hatteras", "label": "distance"}
+{"text": "affirmative, go ahead", "label": "yes"}
+{"text": "what is the limit on my visa", "label": "credit_limit"}
+{"text": "erase all items on my todo list", "label": "todo_list_update"}
+{"text": "can you make 1234 the pin for my savings account", "label": "pin_change"}
+{"text": "flip a coin, you're tails and i'm heads", "label": "flip_coin"}
+{"text": "refresh to factory defaults", "label": "reset_settings"}
+{"text": "savings account balance at chase bank please", "label": "balance"}
+{"text": "what kinds of hobbies do you have", "label": "what_are_your_hobbies"}
+{"text": "please confirm my reservation for bar les freres at 7", "label": "confirm_reservation"}
+{"text": "what are you feeling today", "label": "greeting"}
+{"text": "what kind of calories do chicken tenders have", "label": "calories"}
+{"text": "text mark hello", "label": "text"}
+{"text": "does my shopping list include apples right now", "label": "shopping_list"}
+{"text": "what is the miles per gallon", "label": "mpg"}
+{"text": "say it one more time", "label": "repeat"}
+{"text": "please change your accent to the male british one", "label": "change_accent"}
+{"text": "can you tell me my current interest rate", "label": "interest_rate"}
+{"text": "am i close to arriving at the post office", "label": "distance"}
+{"text": "i want you to give me a suggestion for what to make for dinner", "label": "meal_suggestion"}
+{"text": "i got to know how long until the next day off", "label": "next_holiday"}
+{"text": "how were you made", "label": "who_made_you"}
+{"text": "i need you to call me mary", "label": "change_user_name"}
+{"text": "bye!", "label": "goodbye"}
+{"text": "dollar to pesos exchange rate", "label": "exchange_rate"}
+{"text": "tell me when today's meeting is supposed to happen", "label": "meeting_schedule"}
+{"text": "check if bj's takes reservations", "label": "accept_reservations"}
+{"text": "can you spell out \"wonderful", "label": "spelling"}
+{"text": "i would like to change the pin on my savings account", "label": "pin_change"}
+{"text": "let me know the ingredients i will need for pasta making", "label": "ingredients_list"}
+{"text": "can i fly from atlanta to san francisco for less than 100 dollars", "label": "book_flight"}
+{"text": "what are my insurance assets", "label": "insurance"}
+{"text": "i need to know when i get paid next", "label": "payday"}
+{"text": "you need to set the timer for me", "label": "timer"}
+{"text": "text katy and tell her i love her", "label": "text"}
+{"text": "so where did you live when you were a baby", "label": "where_are_you_from"}
+{"text": "help me pick a nice restaurant to dine at", "label": "restaurant_suggestion"}
+{"text": "fun facts about tigers", "label": "fun_fact"}
+{"text": "tell me something funny about love", "label": "tell_joke"}
+{"text": "how many calories are in a piece of bacon", "label": "calories"}
+{"text": "does longhorn steakhouse have good reviews", "label": "restaurant_reviews"}
+{"text": "i think my luggage has been misplaced", "label": "lost_luggage"}
+{"text": "please go ahead and change my name", "label": "change_user_name"}
+{"text": "set a reminder for monday pay taxes", "label": "reminder_update"}
+{"text": "please remove science fair from my to do list", "label": "todo_list_update"}
+{"text": "my card is too scratched up and i need to report it", "label": "damaged_card"}
+{"text": "do you have any monkey jokes", "label": "tell_joke"}
+{"text": "can i have a 2 sided dice", "label": "roll_dice"}
+{"text": "i need the routing number for my woodlawn account", "label": "routing"}
+{"text": "when it my citi card expired", "label": "expiration_date"}
+{"text": "i believe that my luggage was lost", "label": "lost_luggage"}
+{"text": "locate my package", "label": "order_status"}
+{"text": "can you tell me my spending limit", "label": "credit_limit"}
+{"text": "how many centimeters are in 4 inches", "label": "measurement_conversion"}
+{"text": "i just started this new job and need help with my 401k rollover", "label": "rollover_401k"}
+{"text": "how many days till i get a new card to replace the stolen one", "label": "replacement_card_duration"}
+{"text": "is there a meeting with sam today", "label": "meeting_schedule"}
+{"text": "spell aaron for me", "label": "spelling"}
+{"text": "how's it going with you", "label": "greeting"}
+{"text": "i have no knowledge about it", "label": "maybe"}
+{"text": "meaning of life is", "label": "meaning_of_life"}
+{"text": "i am traveling to paris soon and would like some suggestions of what to do and see", "label": "travel_suggestion"}
+{"text": "thank you for your time and trying to help", "label": "thank_you"}
+{"text": "i want to pay that bill now", "label": "pay_bill"}
+{"text": "how much have i spent on my bank card sine i last paid my bill", "label": "transactions"}
+{"text": "what time is it in the central timezone", "label": "time"}
+{"text": "set up direct deposit", "label": "direct_deposit"}
+{"text": "please say it again", "label": "repeat"}
+{"text": "my phone is lost - can you help me find it", "label": "find_phone"}
+{"text": "do you know the price for my taxes in income", "label": "taxes"}
+{"text": "if i use my card in mexico do i get an extra fee", "label": "international_fees"}
+{"text": "what is stupedous meant", "label": "definition"}
+{"text": "hello, friend", "label": "greeting"}
+{"text": "what is the traffic like on the way to work", "label": "traffic"}
+{"text": "please tell me all the transactions i've made recently", "label": "transactions"}
+{"text": "can you tell me my shopping list items, please", "label": "shopping_list"}
+{"text": "can i rename you bob", "label": "change_ai_name"}
+{"text": "where did you last live", "label": "where_are_you_from"}
+{"text": "please speak german to me from now on", "label": "change_language"}
+{"text": "can acero take reservation", "label": "accept_reservations"}
+{"text": "what timezone is japan in", "label": "timezone"}
+{"text": "my card declined", "label": "card_declined"}
+{"text": "switch to whisper mode, please", "label": "whisper_mode"}
+{"text": "what ingredients are in filet mignon", "label": "ingredients_list"}
+{"text": "what's a good, popular american meal", "label": "meal_suggestion"}
+{"text": "what day is the bill due", "label": "bill_due"}
+{"text": "do i need a converter for my electronics when i go to that coutntry", "label": "plug_type"}
+{"text": "can you tell me my exact salary", "label": "income"}
+{"text": "i need to order checks, so can i order some new ones", "label": "order_checks"}
+{"text": "let me know who is your boss", "label": "who_do_you_work_for"}
+{"text": "could you tell me what my routing number from first republic is", "label": "routing"}
+{"text": "confirm that buy a light bulb is on my list of reminders", "label": "reminder"}
+{"text": "can you cancel", "label": "cancel"}
+{"text": "the answer to that is a resounding yes", "label": "yes"}
+{"text": "how much state taxes do i owe", "label": "taxes"}
+{"text": "what was the date of my last auto appointment", "label": "last_maintenance"}
+{"text": "is garlic on my grocery list", "label": "shopping_list"}
+{"text": "if i may, i'd like to call you slave", "label": "change_ai_name"}
+{"text": "please tell me everything on my list of reminders", "label": "reminder"}
+{"text": "is it possible to raise the credit limit for my discover card", "label": "credit_limit_change"}
+{"text": "how do i get to the closest starbucks", "label": "directions"}
+{"text": "i need you to phone sal", "label": "make_call"}
+{"text": "what time will i get to the beach taking the bus", "label": "distance"}
+{"text": "bonjour", "label": "greeting"}
+{"text": "my card doesn't work anymore", "label": "damaged_card"}
+{"text": "if i replaced my tires on christmas eve, when will i need to replace them again", "label": "tire_change"}
+{"text": "what's a good chili recipe", "label": "recipe"}
+{"text": "what is the expiry date of my credit card", "label": "expiration_date"}
+{"text": "i would like to transfer $5 from savings to checking", "label": "transfer"}
+{"text": "how many dollars can i exchange for 10000 rubles", "label": "exchange_rate"}
+{"text": "can i hear some music by cloud control", "label": "play_music"}
+{"text": "can you tell me about the pets you have", "label": "do_you_have_pets"}
+{"text": "show me ideas for hamburger", "label": "recipe"}
+{"text": "can you look up what my shopping list has on it", "label": "shopping_list"}
+{"text": "do you know the smallest amount i can pay on my water bill", "label": "min_payment"}
+{"text": "how old are you again", "label": "how_old_are_you"}
+{"text": "how do germans say goodnight", "label": "translate"}
+{"text": "how do i redeem my visa points", "label": "redeem_rewards"}
+{"text": "is there a car rental available from tuesday to thursday out of lax", "label": "car_rental"}
+{"text": "thanks for answering my question", "label": "thank_you"}
+{"text": "what name would you like me to use", "label": "what_is_your_name"}
+{"text": "how many mexican pesos is a us dollar worth", "label": "exchange_rate"}
+{"text": "tell me the current apr on my visa card from bbt", "label": "apr"}
+{"text": "what were you supposed to remind me of", "label": "reminder"}
+{"text": "can you tell me my routing number for summit", "label": "routing"}
